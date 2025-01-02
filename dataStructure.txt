@@ -1,0 +1,13 @@
+{
+    exercise:{
+         periodicity: "daily/weekly",
+         current_streak: 2,
+         longest_streak: 4,
+         createdAt: date,"2024-01-02 07:00:00"
+         completed_dates:["2024-01-02 07:30:00","2024-01-03 08:00:00"]
+         isBroken: true/false
+    }
+    brush_teeth:{
+        // and so on
+    }
+}

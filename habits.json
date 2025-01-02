@@ -1,0 +1,71 @@
+{
+    "habits": {
+        "exercise": {
+            "periodicity": "daily",
+            "current_streak": 5,
+            "longest_streak": 5,
+            "createdAt": "2024-12-01 08:00:00",
+            "completed_dates": [
+                "2024-12-01 06:30:00",
+                "2024-12-02 06:30:00",
+                "2024-12-03 06:30:00",
+                "2024-12-04 06:30:00",
+                "2024-12-05 06:30:00"
+            ],
+            "isBroken": false
+        },
+        "Read Harry Potter": {
+            "periodicity": "weekly",
+            "current_streak": 3,
+            "longest_streak": 4,
+            "createdAt": "2024-12-02 12:00:00",
+            "completed_dates": [
+                "2024-12-03 10:00:00",
+                "2024-12-10 10:00:00",
+                "2024-12-17 10:00:00",
+                "2024-12-24 10:00:00"
+            ],
+            "isBroken": false
+        },
+        "Feed a Poor/Homeless": {
+            "periodicity": "weekly",
+            "current_streak": 1,
+            "longest_streak": 2,
+            "createdAt": "2024-12-03 14:00:00",
+            "completed_dates": [
+                "2024-12-04 17:00:00",
+                "2024-12-11 17:00:00"
+            ],
+            "isBroken": false
+        },
+        "Drink Water": {
+            "periodicity": "daily",
+            "current_streak": 7,
+            "longest_streak": 7,
+            "createdAt": "2024-12-05 09:00:00",
+            "completed_dates": [
+                "2024-12-05 08:00:00",
+                "2024-12-06 08:00:00",
+                "2024-12-07 08:00:00",
+                "2024-12-08 08:00:00",
+                "2024-12-09 08:00:00",
+                "2024-12-10 08:00:00",
+                "2024-12-11 08:00:00"
+            ],
+            "isBroken": false
+        },
+        "Morning Meditation": {
+            "periodicity": "daily",
+            "current_streak": 4,
+            "longest_streak": 4,
+            "createdAt": "2024-12-06 06:00:00",
+            "completed_dates": [
+                "2024-12-06 06:00:00",
+                "2024-12-07 06:00:00",
+                "2024-12-08 06:00:00",
+                "2024-12-09 06:00:00"
+            ],
+            "isBroken": false
+        }
+    }
+}
